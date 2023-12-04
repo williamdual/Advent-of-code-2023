@@ -1,0 +1,45 @@
+Known langs(can not repeat):
+    -Python
+    -JavaScript
+    -C++
+    -Java
+    
+Familiar langs(must do all):
+    -C -> Done
+    -Rust
+    -C#
+    -TypeScript
+
+
+Wacky langs(Must do at least 2)
+    -Full React App
+    -Unity with UI 
+    -Godot with UI
+
+New langs(must do at least 7)
+    -Ruby
+    -Go -> DONE
+    -Haskel
+    -Swift
+    -Pearl
+    -Koltin
+    -Smalltalk
+    -R
+    -Lua
+    -OCaml
+    -Scala
+    -Dart
+    -Objective-C
+    -F#
+    -Haxe
+    
+Bash head against wall lang(must do at least 1)
+    -assembly
+    -BASIC
+    -VBA
+    -Power Point
+    -Bash
+    -Powershell
+    -Pascal
+    -Emojicode
+
